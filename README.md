@@ -1,6 +1,6 @@
 # TELESALUD H&B
 
-![imagen](img/gif-telesalud.svg)
+![imagen](img/gif-tsalud-2.svg)
 
 ## ELABORADO PARA [HEALTH AND BENEFITS](http://www.h-b.com.mx/paginahb/)
 
