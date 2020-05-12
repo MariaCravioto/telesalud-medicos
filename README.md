@@ -1,4 +1,4 @@
-# TELESALUD H&B PERFIL MÉDICO
+# TELESALUD H&B 
 
 ![imagen](img/gif-clientes.svg)
 
